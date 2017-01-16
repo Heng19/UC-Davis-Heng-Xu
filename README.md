@@ -5,6 +5,5 @@ Currently UC Davis Undergraduate student major in Computational Statistics.
 
 ### Work
 
-#### Class STA 141A
 #### Class STA 141B
 
