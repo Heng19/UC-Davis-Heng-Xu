@@ -1,0 +1,26 @@
+Main Interest: 
+
+Find the relationship between Audience's rating and comments of a film and its box office.
+
+Possible Procedure:
+
+1. 	Extract information of films first.
+	
+	Detailed: From 2000 to 2017, extract 100 best sell films information from IMDB. Store the information
+	
+	Status: Almost Done.
+
+2.	Extract User information and comments for each films.
+
+	Detailed: Extract Age, Gender, Nationnality for information. NLP for comments. Extract key words in each comment.
+
+	Status:
+
+3. 	Creat an interactive plot to display information
+
+	Status:
+
+4.	Data Analysis
+	
+	Status:	
+	
