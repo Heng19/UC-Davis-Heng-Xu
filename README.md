@@ -10,5 +10,5 @@ Currently UC Davis Undergraduate student major in both Computational Statistics 
 #### Image classification for cars and other obstacles(working)
 #### Class STA 141A Final Project
 #### Class STA 141B Fianl Project (about movie genres)
-https://github.com/Heng19/heng19.github.io/blob/master/README.md
+http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/fianl%20(2).html
 
