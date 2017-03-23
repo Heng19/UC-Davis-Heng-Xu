@@ -8,11 +8,9 @@ Currently UC Davis Undergraduate student major in both Computational Statistics 
 
 
 #### Image classification for cars and other obstacles(working)
-#### Class STA 141A Final Project
+#### Class STA 141A Final Project:
+We analyze about abalone based on on dataset we found on UCI. We use linear regression and knn algorithm to determine the gender influence towards abalone's size, weight and age.
 #### Class STA 141B Fianl Project (about movie genres)<br/>
 This is the link to the html of the project [link](http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html)
 <br/>
 
-<div class = "col span_2_right">
-      < img src = "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg">
- </div>
