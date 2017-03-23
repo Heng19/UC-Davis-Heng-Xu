@@ -12,3 +12,7 @@ Currently UC Davis Undergraduate student major in both Computational Statistics 
 #### Class STA 141B Fianl Project (about movie genres)<br/>
 This is the link to the html of the project [link](http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html)
 <br/>
+
+<div class = "col span_2_right">
+      < img src = "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg">
+ </div>
