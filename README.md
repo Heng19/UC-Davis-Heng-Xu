@@ -11,7 +11,7 @@ Currently UC Davis Undergraduate student major in both Computational Statistics 
 ##### Class STA 141A Final Project:
 We analyze about abalone based on on dataset we found on UCI. We use linear regression and knn algorithm to determine the gender influence towards abalone's size, weight and age.
 ##### Class STA 141B Fianl Project (about movie genres)<br/>
-We investigate the change of people's preference for movie in last 30 years. We collect the data from mainly from IMDb and want to find the trend and reason for the change of people's preference.
+Our group members are: Shiyuan Li, Jing Peng, me. We investigate the change of people's preference for movie in last 30 years. We collect the data from mainly from IMDb and want to find the trend and reason for the change of people's preference.
 This is the link to the html of the project [link](http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html)
 <br/>
 
